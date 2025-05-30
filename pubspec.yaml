@@ -2,6 +2,8 @@ name: circle_splash
 description: A customizable Flutter package for creating animated circular splash screens with various corner animations.
 version: 1.0.0
 homepage: https://github.com/zenithsyntax/circle_splash.git
+repository: https://github.com/zenithsyntax/circle_splash
+documentation: https://github.com/zenithsyntax/circle_splash#readme
 
 environment:
   sdk: '>=3.5.4 <4.0.0'
