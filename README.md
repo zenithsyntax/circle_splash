@@ -5,10 +5,10 @@ A highly customizable Flutter package for creating beautiful animated circular s
 ## Preview
 
 ### Center Animation  
-[▶️ Watch on GitHub](https://github.com/zenithsyntax/circle_splash/raw/main/assets/center.mp4)
+![Center Animation](https://github.com/yourusername/yourrepo/raw/main/assets/center.gif)
 
 ### All Animation Types  
-[▶️ Watch on GitHub](https://github.com/zenithsyntax/circle_splash/raw/main/assets/full.mp4)
+![All Animations](https://github.com/yourusername/yourrepo/raw/main/assets/full.gif)
 
 ## Features
 
