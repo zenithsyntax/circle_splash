@@ -25,7 +25,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  circle_splash: ^1.0.0
+  circle_splash: ^1.0.1
 
 Then run:
 
