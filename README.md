@@ -2,6 +2,14 @@
 
 A highly customizable Flutter package for creating beautiful animated circular splash screens with various corner animations.
 
+## Preview
+
+### Center Animation  
+[▶️ Watch on GitHub](https://github.com/zenithsyntax/circle_splash/raw/main/assets/center.mp4)
+
+### All Animation Types  
+[▶️ Watch on GitHub](https://github.com/zenithsyntax/circle_splash/raw/main/assets/full.mp4)
+
 ## Features
 
 - ✨ Multiple animation types (center, corners)
@@ -18,7 +26,6 @@ Add this to your package's `pubspec.yaml` file:
 ```yaml
 dependencies:
   circle_splash: ^1.0.0
-```
 
 Then run:
 
@@ -143,7 +150,6 @@ CircleSplashScreen(
 )
 ```
 
-## Configuration Options
 
 ### CircleSplashConfig
 
@@ -163,25 +169,29 @@ CircleSplashScreen(
 ### Animation Types
 
 - `CircleSplashAnimationType.center` - Circle expands from center
-- `CircleSplashAnimationType.topLeft` - Circle expands from top-left corner
+- `CircleSplashAnimationType.topLeft` - Circle expands from top-left corner  
 - `CircleSplashAnimationType.topRight` - Circle expands from top-right corner
 - `CircleSplashAnimationType.bottomLeft` - Circle expands from bottom-left corner
 - `CircleSplashAnimationType.bottomRight` - Circle expands from bottom-right corner
 
+## Preview Videos
+
+The package includes demo videos showing the animations in action:
+
+- **Center Animation**: Shows the classic center expansion animation with smooth circular growth from the center of the screen
+- **All Animations**: Demonstrates all five animation types in sequence - center, top-left, top-right, bottom-left, and bottom-right corner animations
+
+These videos help you understand exactly what each animation type looks like before implementing them in your app.
+
 ## Example
 
-Check out the [example](example/) directory for a complete sample app demonstrating all features.
+Check out the [example](https://github.com/zenithsyntax/circle_splash/tree/main/example) directory for a complete sample app demonstrating all features.
 
-## Contributing
-
-Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) and submit pull requests to our repository.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/zenithsyntax/circle_splash/blob/main/LICENSE) file for details.
 
 ## Support
 
-If you find this package helpful, please give it a ⭐ on [GitHub](https://github.com/yourusername/circle_splash)!
-
-For issues and feature requests, please use the [GitHub Issues](https://github.com/yourusername/circle_splash/issues) page.
+If you find this package helpful, please give it a ⭐ on [GitHub](https://github.com/zenithsyntax/circle_splash)!
